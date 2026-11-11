@@ -17,9 +17,9 @@ This project asks:
 | Rule | Value | Source |
 |---|---|---|
 | 5★ rate | 1 % per pull up to pull 60 | third-party explainer (shattered.io), confirmed in-game by the author |
-| Soft pity | from pull 61, +10 percentage points per pull | same source |
-| Hard pity | 100 % at pull 70 | same source |
-| Cost per pull | 150 diamonds | same source |
+| Soft pity | from pull 61, +10 percentage points per pull | third-party explainer (shattered.io), confirmed in-game by the author |
+| Hard pity | 100 % at pull 70 | third-party explainer (shattered.io), confirmed in-game by the author |
+| Cost per pull | 150 diamonds | third-party explainer (shattered.io), confirmed in-game by the author |
 | Pity counter | shared by all limited banners, carries over | official news post (Infold) and in-game check by the author |
 | Solo banner | 50/50; after losing, the next 5★ is guaranteed to be the featured card; the guarantee carries over | in-game check by the author |
 | Multi banner | 5 limited cards, 3 selected (25 % each), 1 chosen as Precise Wish; after a miss the next 5★ is guaranteed to be the target; the Precise Wish point does not carry over | in-game check by the author |
