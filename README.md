@@ -1,6 +1,7 @@
 # Love and Deepspace: how many pulls do you really need?
 
-A small Monte Carlo analysis of the gacha rules (pity, 50/50, Precise Wish) in *Love and Deepspace*.
+A small Monte Carlo analysis of the gacha rules (pity system, 50/50, Precise Wish) in *Love and Deepspace*.
+
 Author: Daria Semenova
 
 ## Question
