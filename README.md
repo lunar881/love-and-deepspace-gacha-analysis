@@ -2,8 +2,8 @@
 
 A small Monte Carlo analysis of the gacha rules (pity system, 50/50, Precise Wish) in *Love and Deepspace*.
 
-Author: Daria Semenova
-Tools: Python (random, NumPy, Matplotlib), Monte Carlo simulation
+**Author: Daria Semenova**
+**Tools: Python (random, NumPy, Matplotlib), Monte Carlo simulation**
 
 ## Question
 
