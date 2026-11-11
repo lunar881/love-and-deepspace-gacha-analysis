@@ -42,7 +42,7 @@ The second part simulates a series of 10 banners. The player receives a fixed nu
 
 ## Results
 
-### Pulls needed for one card (from a fresh counter)
+### Pulls needed for one card 
 
 | Scenario | Mean | Median | 90th pct | Done within 70 | Done within 100 |
 |---|---|---|---|---|---|
